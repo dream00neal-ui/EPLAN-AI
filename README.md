@@ -2,7 +2,7 @@
 
 中项网 × EPLAN 商机洞察服务售前演示。数据源自重点客户监测实样（3家订阅企业、111条线索：参与项目36 / 招投标54 / 近期资讯21，另有3张P1示例卡用于展示P1触达形态）。
 
-**在线演示**：https://dream00neal-ui.github.io/eplan-ai-insight-demo/
+**在线演示**：https://dream00neal-ui.github.io/EPLAN-AI/
 
 ## 功能一览
 
